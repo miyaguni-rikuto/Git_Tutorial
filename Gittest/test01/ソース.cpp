@@ -11,5 +11,9 @@ int main(void)
 	printf("kansyasimasu\n");
 	printf("kansyasimasu\n");
 
+	for (int i = 0; i < 5; i++)
+	{
+		printf("TENNN\n");
+	}
 		return 0;
 }
